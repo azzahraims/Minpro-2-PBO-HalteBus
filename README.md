@@ -101,7 +101,7 @@ Dengan method overriding, pemanggilan method `tampilkanInfo()` dapat menampilkan
 
 ---
 
-## 📸 Dokumentasi Program
+## Dokumentasi Program
 
 ### Menu Utama
 
