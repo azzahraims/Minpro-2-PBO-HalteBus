@@ -50,12 +50,6 @@ Inheritance diterapkan dengan menjadikan class `Halte` sebagai **superclass**, s
 
 Struktur inheritance pada program:
 
-```text
-Halte
-├── HalteReguler
-└── HalteTransit
-```
-
 Class `HalteReguler` dan `HalteTransit` menggunakan `extends Halte` sehingga dapat mewarisi atribut dan method dari superclass `Halte`.
 
 <img width="252" height="33" alt="image" src="https://github.com/user-attachments/assets/a169215f-b597-4e1f-899f-ce73e7393cdc" />   
