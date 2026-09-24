@@ -26,7 +26,7 @@ Saat program dijalankan, sistem akan menampilkan menu utama yang terdiri dari:
 
 5. **Keluar:** Admin dapat memilih menu keluar untuk mengakhiri program.
 
-Setelah proses pada menu selesai dilakukan, program akan kembali menampilkan menu utama sampai admin memilih menu **Keluar**.
+Setelah proses pada menu selesai dilakukan, program akan kembali menampilkan menu utama sampai admin memilih menu Keluar.
 
 ---
 
@@ -34,7 +34,7 @@ Setelah proses pada menu selesai dilakukan, program akan kembali menampilkan men
 
 Encapsulation diterapkan pada class `Halte`, `HalteReguler`, dan `HalteTransit`. Atribut pada setiap class menggunakan access modifier `private` sehingga atribut tidak dapat diakses secara langsung dari luar class.
 
-Akses dan perubahan nilai atribut dilakukan melalui method **getter** dan **setter**.
+Akses dan perubahan nilai atribut dilakukan melalui method getter dan setter.
 
 Contoh penerapan pada class `Halte`:
 
